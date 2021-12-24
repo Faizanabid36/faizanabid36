@@ -16,10 +16,6 @@
   I am learning Game Development 🎮
 </p>
 
-
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
-
 ---
 
 
@@ -50,3 +46,6 @@
 <a href="https://instagram.com/_faizan_abid"><img src="https://img.shields.io/badge/-_faizan_abid-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/_faizan_abid"><img src="https://img.shields.io/badge/-_faizan_abid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
