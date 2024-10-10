@@ -11,7 +11,7 @@
 
 <p align="center" width="150px">
   I have kickstarted my career as a Software Engineer in the year 2018 📆 <br>
-  I have completed my B.Sc. in the Software Engineering 🎓<br>
+  I have completed my B.Sc. in Software Engineering 🎓<br>
   I am currently working as a Full Stack Developer 💻<br>
   I am learning Game Development 🎮
 </p>
@@ -22,13 +22,15 @@
 
 ### &nbsp;Tech Stack  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
 
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=fb503b)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=Node.js)&nbsp;
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=fb503b)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=19573f)&nbsp;
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?logoColor=C21325&flat&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=058a5e)
