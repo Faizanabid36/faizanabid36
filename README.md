@@ -24,7 +24,7 @@
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=Node.js)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=fb503b)&nbsp;
