@@ -11,9 +11,8 @@
 
 <p align="center" width="150px">
   I have kickstarted my career as a Software Engineer in the year 2018 📆 <br>
-  I have completed my B.Sc. in Software Engineering 🎓<br>
+  I have completed my MS. in Computer Science 🎓<br>
   I am currently working as a Full Stack Developer 💻<br>
-  I am learning Game Development 🎮
 </p>
 
 ---
