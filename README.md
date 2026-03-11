@@ -1,66 +1,215 @@
-<h1 align="center">
-  <p align="center">
-    <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-  </p>
-  Hi, I am Faizan Abid
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              FAIZAN ABID  ·  Senior Software Engineer        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center" width="150px">
-  I have kickstarted my career as a Software Engineer in the year 2018 📆 <br>
-  I have completed my MS. in Computer Science 🎓<br>
-  I am currently working as a Full Stack Developer 💻<br>
-</p>
+**Canada / US**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-faizanabid36-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/faizanabid36)
+[![Email](https://img.shields.io/badge/Email-faizanabid36@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faizanabid36@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F497D?style=flat-square&logo=vercel&logoColor=white)](https://faizan-abid.website)
 
-<img alt="Coding" style="width:18rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" align="right"/>
-
-### &nbsp;Tech Stack  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=Node.js)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&style=flat)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=e535ab)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue.js)&nbsp;
-
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=fb503b)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=19573f)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?logoColor=C21325&flat&logo=jest)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=058a5e)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=Tailwind-css&logoColor=white&style=flat)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=flat)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=5191c2)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=E4DCF0)&nbsp;
-![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=unity)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-
+</div>
 
 ---
 
-### &nbsp;Connect with me <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width = 56px>
+## About
 
-<p align="center">
-<a href="https://www.linkedin.com/in/faizanabid36"><img src="https://img.shields.io/badge/-Faizan%20Abid-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:faizanabid36@gmail.com"><img src="https://img.shields.io/badge/-faizanabid36@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_faizan_abid"><img src="https://img.shields.io/badge/-_faizan_abid-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/_faizan_abid"><img src="https://img.shields.io/badge/-_faizan_abid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+7+ years building scalable systems across **AI**, **InsurTech**, **real estate**, **media** and **food-tech**, from startups to enterprise. I specialize in **AWS Serverless architecture**, **GraphQL APIs**, and **event-driven systems**, with a track record of leading distributed engineering teams and owning full product delivery lifecycles.
+
+Holds an **MSc in Applied Computer Science** from Dalhousie University.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### 🖥️ Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### 🚀 DevOps, IaC & CI/CD
+![Serverless Framework](https://img.shields.io/badge/Serverless_Framework-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### 🔌 APIs & Messaging
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat-square&logo=typeorm&logoColor=white)
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+### ☁️ Cloud & Serverless
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![AWS AppSync](https://img.shields.io/badge/AppSync-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS_/_DLQ-FF9900?style=flat-square&logo=amazonsqs&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+
+### 🔐 Auth & Security
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-6B21A8?style=flat-square)
+![SSO](https://img.shields.io/badge/SSO-0A66C2?style=flat-square)
+
+### 🤖 AI & Developer Tools
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🏛️ Architecture Patterns
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-1F497D?style=flat-square)
+![Serverless](https://img.shields.io/badge/Serverless_Architecture-FD5750?style=flat-square)
+![Multi-tenant SaaS](https://img.shields.io/badge/Multi--tenant_SaaS-6B21A8?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0EA5E9?style=flat-square)
+![Pub/Sub](https://img.shields.io/badge/Pub/Sub_Patterns-FF6600?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-374151?style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Professional Work
+
+---
+
+**🌿 SmartWaste Scan - AI-powered environmental data capturing & monitoring platfrom** &nbsp;•&nbsp; *Cielo Costa*
+
+An enterprise-grade AI-powered waste management and environmental monitoring platform deployed across 10+ sites, processing 40K+ records daily with real-time alerting and multi-tenant dashboards.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-6B21A8?style=flat-square)
+
+---
+
+**🍔 FLO.IO - Food Ordering & Restaurant Operations Platform** &nbsp;•&nbsp; *Fusemachines*
+
+A high-traffic food ordering platform serving 25K+ monthly active users, with an internal tip management system adopted by 160+ restaurants, automating reconciliation and payroll processing.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudFront CDN](https://img.shields.io/badge/CloudFront_CDN-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+**🏠 Real Estate Listings Platform** &nbsp;•&nbsp; *Zagop*
+
+A full-scale real estate platform with 500K+ active listings and 20K+ monthly users, featuring automated data ingestion pipelines syncing 10K+ listings from external providers and optimised search.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+**🛡️ SCIP - InsurTech SaaS, that focuses on insurance and lottery sectors** &nbsp;•&nbsp; *Pairing OÜ*
+
+SCIP Core is a feature-rich, enterprise-ready system that can be used by Insurers as the core platform for products, or it can provide the layer above existing systems to enable digital transformation.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+
+## 🏢 Experience
+
+```
+Fusemachines        Senior Software Engineer    2025 – Present   New York, USA
+Cielo Costa         Software Engineer           2022 – 2025      Oakham, UK
+Pairing OÜ          Software Engineer           2021 – 2022      Tallinn, Estonia
+Zagop               Software Engineer           2020 – 2021      Karachi, Pakistan
+ProleadSoft         Junior Software Engineer    2019 – 2020      Karachi, Pakistan
+```
+
+---
+
+## 🎓 Education
+
+```
+Dalhousie University           MSc Applied Computer Science    2024 – 2025
+NED University of Eng & Tech   BS Software Engineering         2017 – 2021
+```
+
+---
+
+<div align="center">
+
+*Currently open to senior engineering roles — remote, Canada or USA*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizanabid36)
+
+</div>
